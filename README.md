@@ -1,4 +1,3 @@
-
 ### Web3Quest - Blockchain Learning Platform
 
 <div align="left">
